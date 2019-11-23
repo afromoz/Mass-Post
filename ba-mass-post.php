@@ -1,18 +1,18 @@
 <?php
 /*
 Plugin Name: Anime Mass Post Plugin
-Plugin URI: http://www.animemp4.net/
+Plugin URI: https://dubbedepisodes.co/
 Description: Plugin to post anime episodes VERY quickly.
 Version: 1.4.7
 Author: MozTycoon
-Author URI: http://www.animemp4.net/
+Author URI: https://dubbedepisodes.co/
 */
-/* Copyright MozTycoon 2017
+/* Copyright MozTycoon 2019
  * This plugin may only be used by those who have purchased a license
  * for it. Licenses apply to only 1 site and may not be transfered to
  * another party.
  *  If you'd like to purchase another license, contact
- *  MozTycoon at moztycoon@gmail.com
+ *  MozTycoon via skype
  *  */
 
 
